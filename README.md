@@ -1,1 +1,1 @@
-This is a basic project which i created using html and css only. It helped me to clear my concepts of css.
+In this repo i will be uploading projects that i will create while learning full-stack dedvelopment.
